@@ -1,0 +1,23 @@
+{
+  "name": "first-app",
+  "version": "0.1.0",
+  "description": "App for trying remix with react",
+  "main": "root.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Barrera",
+  "license": "ISC",
+  "dependencies": {
+    "@remix-run/node": "^2.15.0",
+    "@remix-run/react": "^2.15.0",
+    "@remix-run/serve": "^2.15.0",
+    "isbot": "^4.4.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@remix-run/dev": "^2.15.0",
+    "vite": "^5.4.11"
+  }
+}
